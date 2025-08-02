@@ -48,15 +48,7 @@ Includes bar charts, line graphs, Go Gauge charts, and conditional formatting to
 - Macros enabled (if using VBA buttons)
 - Works best on desktop with full-screen view
 
----
 
-## 📸 Preview
-
-> *You can add screenshots or GIFs of your dashboard here.*
-
-
-
----
 
 ## 🙌 Credits
 
